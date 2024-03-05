@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "aditiya-star07-pldh",
+  "private_key_id": "4887ec7f4bdc84975965a3b7bd4177e91cab7699",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQDPGyeDBMOd833Y\nQHpGLw0DzyJRU03yMSdHdhZsMCNTPgTe7zOTt9nUAX2nAgDT3xTiL3VSrAedVxQd\n1wjf7zLdro++3Wu2ba0W0mXOeTVqllY0EOPZvSAqxL7ZrLv3DREeczBy+YToxhId\no+T1cknc8p/+y0rAHIxo6UfleSCeiYEqjdMBYrzMu3WL2NPsDY0A7lx4kaDAfzJ0\n4jC/O4j1CGxUwpxJwRnRxxgFTX+u6uOMcZKezOq/bpJ9ZCK4vHAMPcLg4W33ot7N\nPWpeoFZrumCwe0ccMhMau4NZOmcYi1k7wCmx5d/WiZ3mRvNtO/4LqP3u2aYwXd+H\nosuxFCCXAgMBAAECgf9dMkFiTY9THj8cqrP04Tdgf27x9oq2cc5uWeiJ+exR75an\n7pWtfQ4iWO/L0Rr0owf188ukm17R1SprdliIBk7dcuM8mgCrSkj//BQ6bx2actkk\nlNuNH/SM4/wxKyNqb0OrPPddLB6jB0uGCwdjbAqdyPcDSt5YYbOaTvk+sHZjrRPj\nAsvgb650FooEHDy9T2HdboK020si1ZC9yKFf2yDONC1PIesyIFfqf3WLfud08A+S\nj+JHnGNUS3j3Wi3kGkwXIPVWcDPnL4O8xxAaI/vSwVrGMuA8r+nWaQikjmNEiNiC\nu6nO90ydom9CXhxUfcCz143uz3p7qFkPKvp8kAECgYEA7obSPNqeRgJ4BoApuPxw\nNmWNjTxMcuhkVd674yIZ4IJAjpacpTFLUmWZRReDZY0ZF/sbXVBcu5/nl4BauUBU\nwtxxWM3xshbypRuMjdGhWABrBNxhlchskn6FAYvFdqMszyMuHWMzk8gFxWUrz92k\nEPiojhVX0hEvemL5V15O3eECgYEA3kcXZth5AF5UyJeS/Jpl9OJ1Tu2tLdxD+DJD\nQUMpbhbukmF150E/sRsyxJyOcAPy3f1JMahzJQitMtpQpO4AJaWEwCYOFqy22k9D\nhwpSW9U5L4ptIwaFKv/wIFnsbUtR18XzcG/28lHF9L2LpnR6aKTKiFmVzbEZ4cW8\n7RdYnXcCgYA7wwPBw3SMTeoMlufdNUJYHrGMhWMSFy+sZBXnHpAlM/1AvHOa3/Lj\nPhlcujttoiB7ZarBgnT5fWLlDn+sknWqLNkpStAXsrAwtepNTgyCo/gsS5sXkBPD\n0Hc6n+5lfxSnAUV4j3ZIvIDVqDeF6R5GMkbo8mgCddPTciDOxw4zgQKBgAVGJI0B\nJ+XVVyenSQqLU037LZNg2lITPt2du7DJuirtil2YyGZjSvKV1Z+Ko2qO/W08/Eac\nW5cOXKWvPmibaQ97nOm+PWlWUcReSxjiKtAZABFbtHk3R2OczQLHf2+ccOWwwbTy\nQya+v/atpKmfa+QdvNx9W6uUvyt3OKNbgXPDAoGALyNMsWZbiNHhsIAOiDMkIPP9\nK/nOmR1z86MQ9mnwov+0U1fQ0QL33TjOFadV7OS1RMrlF+76mAuBuwWyeqIeydzz\nO7yqTWS2ScqPtdBxqzMBwaBUFOb/F/hzzs/nqOyoenkaj+raFj50nxWYNhLqvv+c\nfSZ0Kkm8wAj3ncCQeJ0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "aditiya-wp@aditiya-star07-pldh.iam.gserviceaccount.com",
+  "client_id": "111911209082644342371",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aditiya-wp%40aditiya-star07-pldh.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
